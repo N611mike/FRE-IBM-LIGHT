@@ -1,10 +1,11 @@
 @font-face {
-  font-family: 'FRE IBM';
-  src: url('./FREIBMLight-Regular.woff2') format('woff2');
+  font-family: 'FRE IBM LIGHT';
+  src: url('./FRE-IBM-Light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
 }
 
+/* Пример использования */
 body {
-  font-family: 'FRE IBM', sans-serif;
+  font-family: 'FRE IBM LIGHT', sans-serif;
 }
